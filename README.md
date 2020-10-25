@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Ali Zihuny
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=xihuny&column=7"/>
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xihuny&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xihuny&layout=compact" />
+</div>
 
 <!--
 **Xihuny/xihuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
